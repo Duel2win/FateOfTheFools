@@ -1,11 +1,30 @@
 {
   "vaultName": "Main",
-  "lastExport": 1733827988138,
+  "lastExport": 1733828803382,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon list-default-bullet list-bullet-color check-color check-bg tag-bubble s-d",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon basic-pathfinder-2e-layout-theme-default pathfinder-2e-action-layout-theme-default pathfinder-2e-hazard-layout-theme-default pathfinder-2e-influence-layout-theme-default pathfinder-2e-misc-layout-theme-default pathfinder-2e-quest-layout-theme-default pathfinder-2e-settlement-layout-theme-default list-default-bullet list-bullet-color check-color check-bg tag-bubble s-d",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "_Templates/DND - Groups.md",
+    "_Templates/DND - Location.md",
+    "_Templates/DND - Lore.md",
+    "_Templates/DND - NPC.md",
+    "_Templates/DND - Quest.md",
+    "_Templates/General Note.md",
+    "_Unassigned/Goldwater.md",
+    "_Unassigned/Session 00 - The End of Time.md",
+    "Dungeons and Dragons/_Rules/5th Edition/The Game/Actions in Combat.md",
+    "Dungeons and Dragons/_Rules/DM Screens.md",
+    "Dungeons and Dragons/Thamalus/Characters/Mardine Royal Family.md",
+    "Dungeons and Dragons/Thamalus/Characters/The Original Five.md",
+    "Dungeons and Dragons/Thamalus/Locations/Ardia/Ardia.md",
+    "Dungeons and Dragons/Thamalus/Locations/Diari/Diari.md",
+    "Dungeons and Dragons/Thamalus/Locations/Mardine/Mardine.md",
+    "Dungeons and Dragons/Thamalus/Quests/Current - Fate of the Fools/Fate of the Fools.md",
+    "Dungeons and Dragons/Thamalus/Thamalus.md",
+    "Work/Guides/Power Apps Guide.md",
+    "Home.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -32,6 +51,7 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
@@ -64,6 +84,7 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
@@ -71,183 +92,303 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1733827988138,
-      "sourceSize": 656,
+      "modifiedTime": 1733828803382,
+      "sourceSize": 17349,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1733827988138,
-      "sourceSize": 279,
+      "modifiedTime": 1733828803382,
+      "sourceSize": 1651,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 717815,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 311,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 463,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1733827988138,
+      "modifiedTime": 1733828803382,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "_Templates/DND - Groups.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 2516,
+      "exportedPath": "_templates/dnd-groups.html",
+      "dependencies": []
+    },
+    "_Templates/DND - Location.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 2642,
+      "exportedPath": "_templates/dnd-location.html",
+      "dependencies": []
+    },
+    "_Templates/DND - Lore.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 767,
+      "exportedPath": "_templates/dnd-lore.html",
+      "dependencies": []
+    },
+    "_Templates/DND - NPC.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 771,
+      "exportedPath": "_templates/dnd-npc.html",
+      "dependencies": []
+    },
+    "_Templates/DND - Quest.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 2418,
+      "exportedPath": "_templates/dnd-quest.html",
+      "dependencies": []
+    },
+    "_Templates/General Note.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 512,
+      "exportedPath": "_templates/general-note.html",
+      "dependencies": []
+    },
+    "_Unassigned/Goldwater.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 3416,
+      "exportedPath": "_unassigned/goldwater.html",
+      "dependencies": []
+    },
+    "_Unassigned/Session 00 - The End of Time.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 2039,
+      "exportedPath": "_unassigned/session-00-the-end-of-time.html",
+      "dependencies": []
+    },
+    "Dungeons and Dragons/_Rules/5th Edition/The Game/Actions in Combat.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 12258,
+      "exportedPath": "dungeons-and-dragons/_rules/5th-edition/the-game/actions-in-combat.html",
+      "dependencies": []
+    },
+    "Dungeons and Dragons/_Rules/DM Screens.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 586,
+      "exportedPath": "dungeons-and-dragons/_rules/dm-screens.html",
+      "dependencies": []
+    },
+    "Dungeons and Dragons/Thamalus/Characters/Mardine Royal Family.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 5793,
+      "exportedPath": "dungeons-and-dragons/thamalus/characters/mardine-royal-family.html",
+      "dependencies": []
+    },
+    "Dungeons and Dragons/Thamalus/Characters/The Original Five.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 7437,
+      "exportedPath": "dungeons-and-dragons/thamalus/characters/the-original-five.html",
+      "dependencies": []
+    },
+    "Dungeons and Dragons/Thamalus/Locations/Ardia/Ardia.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 2635,
+      "exportedPath": "dungeons-and-dragons/thamalus/locations/ardia/ardia.html",
+      "dependencies": []
+    },
+    "Dungeons and Dragons/Thamalus/Locations/Diari/Diari.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 2670,
+      "exportedPath": "dungeons-and-dragons/thamalus/locations/diari/diari.html",
+      "dependencies": []
+    },
+    "Dungeons and Dragons/Thamalus/Locations/Mardine/Mardine.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 4028,
+      "exportedPath": "dungeons-and-dragons/thamalus/locations/mardine/mardine.html",
+      "dependencies": []
+    },
+    "Dungeons and Dragons/Thamalus/Quests/Current - Fate of the Fools/Fate of the Fools.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 6233,
+      "exportedPath": "dungeons-and-dragons/thamalus/quests/current-fate-of-the-fools/fate-of-the-fools.html",
+      "dependencies": []
+    },
+    "Dungeons and Dragons/Thamalus/Thamalus.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 7571,
+      "exportedPath": "dungeons-and-dragons/thamalus/thamalus.html",
+      "dependencies": []
+    },
+    "Work/Guides/Power Apps Guide.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 659,
+      "exportedPath": "work/guides/power-apps-guide.html",
+      "dependencies": []
+    },
+    "Home.md": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 43,
+      "exportedPath": "home.html",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1733828803382,
+      "sourceSize": 1532361,
+      "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     }
   }
