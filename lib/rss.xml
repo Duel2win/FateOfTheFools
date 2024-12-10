@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Main]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Main</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 10 Dec 2024 12:01:34 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 10 Dec 2024 12:01:29 GMT</pubDate><copyright><![CDATA[Duel2win]]></copyright><ttl>60</ttl><dc:creator>Duel2win</dc:creator><item><title><![CDATA[Key Aspects]]></title><description><![CDATA[ 
+ <br>A One sentence summary of the group itself. Helps to identify the purpose of the group, who belongs and why, where to find them,and the importance to the entire campaign or world.<br><br>Three to Five<br>
+<br>Key Point 1
+
+<br>Detailed
+<br>Question about Point
+<br>General Note
+
+
+<br>Key Point 2
+<br>Key Point 3
+<br><br>Dot points of the basics of this note, separated only by small stuff<br><br>When making a random member of this group, what should be instantly included<br>
+<br>Type of Group
+
+<br>What type of group is it? Is it a cult, a religion, a group of merchants, or something else entirely?
+
+
+<br>Commonality
+
+<br>What is the common mark that makes this group stick together? Are they nobles who hate mingling with the common folk, a group of bandits on the run, or just a random group of adventurers or travellers mingled together by the unseen string of fate itself?
+
+
+<br>Symbol or Identifying Mark
+
+<br>What makes it obvious that they are from this group? Is it the way they dress, the manner they present themselves, or a symbol they carry?
+
+
+<br>Purpose
+
+<br>What is it that they aim for? They may have things in common, but this is the reason why they are XXX
+
+
+<br>Core Members
+
+<br>Who are the members that are instantly recognisable. Have a separate dot point for important ones.
+
+
+<br><br>Who makes up this group? Make sure they are able to be copied whenever needed, and if possible, make sure there are spares (Doesn't make sense in gods or royalty, but does in Clergy and other such stuff)<br><br>One to Two sentence concept of the character. Describe how they look and act, along with something that gives purpose to this character<br>
+<br>WHO
+
+<br>Who are they in relation to the group? What is their purpose in the group?
+
+
+<br>Appearance
+
+<br>How do they look? Include things like NPC Race, Body type (Muscular, thin, etc), Hair, Clothes, etc.
+
+
+<br>Quirk
+
+<br>Something that makes them recognisable. Examples include: A big cigar that they constantly choke on when speaking, a limp that seems to disappear when they think no one is looking, egotistical about very mundane things, etc.
+
+
+<br>Relation to Campaign
+
+<br>How do they link up to the campaign in general?
+
+
+<br>Statistics
+
+<br>Either link to them, or create a "&gt;[!NOTE]-" For custom statblocks
+
+
+<br><br>The actual note itself, where the polished version of the note is, which should only be modified slightly after finalisation.]]></description><link>_Templates/DND - Groups.html</link><guid isPermaLink="false">_Templates/DND - Groups.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Sat, 02 Nov 2024 12:35:49 GMT</pubDate></item><item><title><![CDATA[Key Aspects]]></title><description><![CDATA[ 
+ <br>A One sentence summary of the note itself. Helps to identify the purpose of the note, the XXX<br><br>Three to Five<br>
+<br>Key Point 1
+
+<br>Detailed
+<br>Question about Point
+<br>General Note
+
+
+<br>Key Point 2
+<br>Key Point 3
+<br><br>Dot points of the basics of this note, separated only by small stuff<br><br>Where in the world is it located, why, and all the other aspects of it being here<br>
+<br>Where
+
+<br>Which continent, in which world, in which age if it applies
+
+
+<br>Environment
+
+<br>What type of environment is this location built inside of (Or generally has been)?
+
+
+<br>Size
+
+<br>What size is this location? How long does it take someone to move through this location, how much space does it take on the map, how would other people classify the size of the location. Things like this.
+
+
+<br><br>What are the sorts of things the players will discover about this location, outside of something you will find on a map?<br>
+<br>Style
+
+<br>What does the location look like, what makes them different from other locations of the same nature?
+
+
+<br>People
+
+<br>What kind of people live in this area? What types of races, what types of cultures develop.
+
+
+<br>Cultures
+
+<br>What types of cultures develop in this land? Who do they believe, what are some sort of practices that takes place here. What are their attitudes towards their typical day-to-days? What are their day-to-days
+
+
+<br>Uniqueness
+
+<br>What are some unique things about this location that you either wouldn't expect or gives the location depth? Try more than one thing.
+
+
+<br>
+<br><br>Locations found either within this location, or so close that they have become heavily dependant on one another (Think a town trading with a small hamlet two days north of it).<br>
+NOTE - These locations either should be fully detailed or linked to from another location article<br><br>One sentence concept of what this location is, and why it relates to this location. (Should be smaller/less important than this location)<br>
+<br>Style
+
+<br>What does the location look like, what makes them different from other locations of the same nature?
+
+
+<br>People
+
+<br>What kind of people live in this area? What types of races, what types of cultures develop.
+
+
+<br>Uniqueness
+
+<br>What are some unique things about this location that you either wouldn't expect or gives the location depth? Try more than one thing.
+
+
+<br><br>The actual note itself, where the polished version of the note is, which should only be modified slightly after finalisation.]]></description><link>_Templates/DND - Location.html</link><guid isPermaLink="false">_Templates/DND - Location.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Tue, 24 Sep 2024 11:23:29 GMT</pubDate></item><item><title><![CDATA[Key Aspects]]></title><description><![CDATA[ 
+ <br>A One sentence summary of the lore itself. Helps to identify the purpose of the note, when it takes place and who it might affect.<br>
+NOTE: Nothing here is permanent. however it can be used as a stepping stone to better ideas, or can be referenced in-game which makes it feel more alive.<br><br>Three to Five<br>
+<br>Key Point 1
+
+<br>Detailed
+<br>Question about Point
+<br>General Note
+
+
+<br>Key Point 2
+<br>Key Point 3
+<br><br>Dot points of the basics of this note, separated only by small stuff<br>
+<br>AAA
+<br><br>The actual note itself, where the polished version of the note is, which should only be modified slightly after finalisation.]]></description><link>_Templates/DND - Lore.html</link><guid isPermaLink="false">_Templates/DND - Lore.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Sat, 02 Nov 2024 12:23:53 GMT</pubDate></item><item><title><![CDATA[DND - NPC]]></title><description><![CDATA[ 
+ <br><br>One to Two sentence concept of the character. Describe how they look and act, along with something that gives purpose to this character<br>
+<br>WHO
+
+<br>Who are they in relation to the group? What is their purpose in the group?
+
+
+<br>Appearance
+
+<br>How do they look? Include things like NPC Race, Body type (Muscular, thin, etc), Hair, Clothes, etc.
+
+
+<br>Quirk
+
+<br>Something that makes them recognisable. Examples include: A big cigar that they constantly choke on when speaking, a limp that seems to disappear when they think no one is looking, egotistical about very mundane things, etc.
+
+
+<br>Relation to Campaign
+
+<br>How do they link up to the campaign in general?
+
+
+<br>Statistics
+
+<br>Either link to them, or create a "&gt;[!NOTE]-" For custom statblocks
+
+
+]]></description><link>_Templates/DND - NPC.html</link><guid isPermaLink="false">_Templates/DND - NPC.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Sat, 02 Nov 2024 12:39:50 GMT</pubDate></item><item><title><![CDATA[Key Aspects]]></title><description><![CDATA[ 
+ <br>A One sentence summary of the Quest itself. Explain how they got it, what their goal is, the encounter in it, and the ending of it.<br>
+Eg: The party stumbles into the village only to be trapped in time of the same hour by a pair of fighting wizards whom trying to win a game against the other.<br><br>Three to Five<br>
+<br>Key Point 1
+
+<br>Detailed
+<br>Question about Point
+<br>General Note
+
+
+<br>Key Point 2
+<br>Key Point 3
+<br><br>Dot points of the basics of this note, separated only by small stuff<br><br>The foundations of the story. The things that are built upon either before or during the session that gives a core structure<br>
+<br>Campaign
+
+<br>XXX (Act X)
+
+
+<br>Requirements
+
+<br>X Level X Adventurers
+
+
+<br>Themes
+
+<br>AAA
+<br>Theme 1: AAA
+
+
+<br>Where
+
+<br>Where it takes place, such as continent and town. If none, the distance from a town or the location type (Such as a Forest) is enough.
+<br>A
+
+
+<br>Length
+
+<br>How long it should take to complete? (In Sessions but can be hours or minutes if needed)
+
+
+<br>Starting Condition
+
+<br>What happens for the players to acquire this quest?
+
+
+<br>Ending
+
+<br>What is the goal for the ending of this quest?
+
+
+<br>Encounters
+
+<br>Any combat, social, or exploration encounters.
+
+
+<br><br>Bullet point list of quest<br>
+<br>Main Aspect
+
+<br>Description of what happens in this aspect
+<br>Part 1
+
+<br>Description of this part; be it story, an intractable important element, or what have you.
+<br>
+<br>(NONE) General Description of place or event, given with no necessary checks
+<br>🔎 (INVESTIGATION) Details found after passing some sort of check
+<br>? (Optional) Depending on time and current tone, the user can choose to add or remove XXX
+
+
+<br>Part 2
+<br>Part 3
+
+
+<br>Main Aspect
+<br><br>The characters (Outside of your party) that appear<br><br><br>The actual note itself, where the polished version of the note is, which should only be modified slightly after finalisation.]]></description><link>_Templates/DND - Quest.html</link><guid isPermaLink="false">_Templates/DND - Quest.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Sat, 12 Oct 2024 11:24:54 GMT</pubDate></item><item><title><![CDATA[Key Aspects]]></title><description><![CDATA[ 
+ <br>A One sentence summary of the place itself. Helps to identify the purpose of the note, the XXX<br><br>Three to Five<br>
+<br>Key Point 1
+
+<br>Detailed
+<br>Question about Point
+<br>General Note
+
+
+<br>Key Point 2
+<br>Key Point 3
+<br><br>Dot points of the basics of this note, separated only by small stuff<br><br>AAA<br><br>The actual note itself, where the polished version of the note is, which should only be modified slightly after finalisation.]]></description><link>_Templates/General Note.html</link><guid isPermaLink="false">_Templates/General Note.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Sun, 08 Sep 2024 07:18:22 GMT</pubDate></item><item><title><![CDATA[Key Aspects]]></title><description><![CDATA[ 
+ <br>A port city of merchants and gold, one where everything is built for the end user, and one where <br><br>Three to Five<br>
+<br>A port town located in <a data-href="Ardia" href="Dungeons and Dragons/Thamalus/Locations/Ardia/Ardia.html" class="internal-link" target="_self" rel="noopener nofollow">Ardia</a>, using the most commonly accessible river to the outside world.
+
+<br>Detailed
+<br>Question about Point
+<br>General Note
+
+
+<br>The town is ran by merchants, leading to everything that they do to prioritise their trade.
+
+<br>Sanitation is really good, as disease disrupts business partners from coming over to <a data-href="Ardia" href="Dungeons and Dragons/Thamalus/Locations/Ardia/Ardia.html" class="internal-link" target="_self" rel="noopener nofollow">Ardia</a>.
+<br>All items can be found here, even less than moral ones
+
+<br>High amount of brothels and slave owners.
+
+
+<br>Has many unique gimmicks, such as their houses being made of boats, and XXX
+<br>Cuts costs wherever they can
+
+
+<br>Key Point 3
+<br><br>Dot points of the basics of this note, separated only by small stuff<br><br>Where in the world is it located, why, and all the other aspects of it being here<br>
+<br>Where
+
+<br>Which continent, in which world, in which age if it applies
+<br>Located in the continent of <a data-href="Ardia" href="Dungeons and Dragons/Thamalus/Locations/Ardia/Ardia.html" class="internal-link" target="_self" rel="noopener nofollow">Ardia</a>, as a port town of the eastern river.
+
+
+<br>Environment
+
+<br>What type of environment is this location built inside of (Or generally has been)?
+<br>A port town, with it being the most easily accessable town from the outside world, as there are no teleportation gates and it's all spiky and dangerous terrain around the rest of ardia
+
+
+<br>Size
+
+<br>What size is this location? How long does it take someone to move through this location, how much space does it take on the map, how would other people classify the size of the location. Things like this.
+
+
+<br><br>What are the sorts of things the players will discover about this location, outside of something you will find on a map?<br>
+<br>Style
+
+<br>What does the location look like, what makes them different from other locations of the same nature?
+
+
+<br>People
+
+<br>What kind of people live in this area? What types of races, what types of cultures develop.
+
+
+<br>Cultures
+
+<br>What types of cultures develop in this land? Who do they believe, what are some sort of practices that takes place here. What are their attitudes towards their typical day-to-days? What are their day-to-days
+
+
+<br>Uniqueness
+
+<br>What are some unique things about this location that you either wouldn't expect or gives the location depth? Try more than one thing.
+
+
+<br>
+<br><br>Locations found either within this location, or so close that they have become heavily dependant on one another (Think a town trading with a small hamlet two days north of it).<br>
+NOTE - These locations either should be fully detailed or linked to from another location article<br><br>One sentence concept of what this location is, and why it relates to this location. (Should be smaller/less important than this location)<br>
+<br>Style
+
+<br>What does the location look like, what makes them different from other locations of the same nature?
+
+
+<br>People
+
+<br>What kind of people live in this area? What types of races, what types of cultures develop.
+
+
+<br>Uniqueness
+
+<br>What are some unique things about this location that you either wouldn't expect or gives the location depth? Try more than one thing.
+
+
+<br><br>The actual note itself, where the polished version of the note is, which should only be modified slightly after finalisation.]]></description><link>_Unassigned/Goldwater.html</link><guid isPermaLink="false">_Unassigned/Goldwater.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Sat, 16 Nov 2024 05:29:48 GMT</pubDate></item><item><title><![CDATA[Key Aspects]]></title><description><![CDATA[ 
+ <br>A set of adventurer's arrive at the XXX<br><br>Three to Five<br>
+<br>A L
+
+<br>Detailed
+<br>Question about Point
+<br>General Note
+
+
+<br>Key Point 2
+<br>Key Point 3
+<br>Test Toggle In HTML
+Does this work? Does Dot Points?
+
+<br>AAA
+<br>AAA
+<br>Maybe, Who Knows?
+
+<br>AAA
+
+
+
+<br><br>Ran as a oneshot to test out some basic mechanics and improve my skills as a GM. <br>You arrive at the entrance of an old ruins, with a circular portal-like door, filled with arcane runes around its circumference. The door is locked, however you take out an old leather book with a symbol of a forgotten god which unlocks the door. The book slowly glows along with the door as they both evaporate together. Now all that remains is a golden glow emanating from the door as you enter the door leading to the end of time. <br>Inside was an endless library type dungeon, filled with books of endless knowledge of all possible pasts, presents and futures. Your characters were informed that their own villain, that was only known as The Prophet, was preparing a ritual in the final room of the dungeon. The whole library was a type of dungeon, filled with gravity manipulation puzzles, switch puzzles, and tractor beam puzzles. At the end, The Prophet started mumbling about various things too quiet to hear. When you enter you see a room filled with many holes, glowing with an ethereal golden glow. A white stone 13ft in diameter chained over a ritual table slowly glows a burning light. Once you arrived, you provoked him really funnily and he made the decision of transporting a melee fighter within 5ft of him. He died in two rounds. The stone above him glows brighter and brighter the more death and harm comes around. As mechanical servants of the library rush you all, the stone glows brighter and the floor looses space until the glow envelops you, leading to something new... <br>.<br>
+..<br>
+... <br>You hear a faint sound in the distance]]></description><link>_Unassigned/Session 00 - The End of Time.html</link><guid isPermaLink="false">_Unassigned/Session 00 - The End of Time.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Tue, 10 Dec 2024 10:32:04 GMT</pubDate></item><item><title><![CDATA[Key Aspects]]></title><description><![CDATA[ 
+ <br>Contains all of the actions a character can take within combat, and how much they would cost. Each character has a defined movement speed, one action, one bonus action, and one reaction they can take per turn. Only reactions can be used anytime within a round of combat.<br><br>Three to Five<br>
+<br>Key Point 1
+
+<br>Detailed
+<br>Question about Point
+<br>General Note
+
+
+<br>Key Point 2
+<br>Key Point 3
+<br><br>Dot points of the basics of this note, separated only by small stuff<br><br>AAA<br><br>You can move up to <br><br><br>The actual note itself, where the polished version of the note is, which should only be modified slightly after finalisation.]]></description><link>Dungeons and Dragons/_Rules/5th Edition/The Game/Actions in Combat.html</link><guid isPermaLink="false">Dungeons and Dragons/_Rules/5th Edition/The Game/Actions in Combat.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Fri, 18 Oct 2024 12:34:02 GMT</pubDate></item><item><title><![CDATA[Key Aspects]]></title><description><![CDATA[ 
+ <br>A One sentence summary of the group itself. Helps to identify the purpose of the group, who belongs and why, where to find them,and the importance to the entire campaign or world.<br>The royal family of a technologically advanced country, t<br><br>Three to Five<br>
+<br>The royal family of <a data-href="Mardine" href="Dungeons and Dragons/Thamalus/Locations/Mardine/Mardine.html" class="internal-link" target="_self" rel="noopener nofollow">Mardine</a>; a technologically advanced country.
+
+<br>Detailed
+<br>Question about Point
+<br>General Note
+
+
+<br>Key Point 2
+<br>Key Point 3
+<br><br>Dot points of the basics of this note, separated only by small stuff<br><br>When making a random member of this group, what should be instantly included<br>
+<br>Type of Group
+
+<br>A royal family
+
+
+<br>Commonality
+
+<br>What is the common mark that makes this group stick together? Are they nobles who hate mingling with the common folk, a group of bandits on the run, or just a random group of adventurers or travellers mingled together by the unseen string of fate itself?
+
+
+<br>Symbol or Identifying Mark
+
+<br>What makes it obvious that they are from this group? Is it the way they dress, the manner they present themselves, or a symbol they carry?
+
+
+<br>Purpose
+
+<br>What is it that they aim for? They may have things in common, but this is the reason why they are XXX
+
+
+<br>Core Members
+
+<br>Who are the members that are instantly recognisable. Have a separate dot point for important ones.
+
+
+<br><br>Who makes up this group? Make sure they are able to be copied whenever needed, and if possible, make sure there are spares (Doesn't make sense in gods or royalty, but does in Clergy and other such stuff)<br><br>One to Two sentence concept of the character. Describe how they look and act, along with something that gives purpose to this character<br>
+<br>WHO
+
+<br>Who are they in relation to the group? What is their purpose in the group?
+
+
+<br>Appearance
+
+<br>How do they look? Include things like NPC Race, Body type (Muscular, thin, etc), Hair, Clothes, etc.
+
+
+<br>Quirk
+
+<br>Something that makes them recognisable. Examples include: A big cigar that they constantly choke on when speaking, a limp that seems to disappear when they think no one is looking, egotistical about very mundane things, etc.
+
+
+<br>Relation to Campaign
+
+<br>How do they link up to the campaign in general?
+
+
+<br>Statistics
+
+<br>Either link to them, or create a "&gt;[!NOTE]-" For custom statblocks
+
+
+<br><br>One to Two sentence concept of the character. Describe how they look and act, along with something that gives purpose to this character<br>
+<br>WHO
+
+<br>Who are they in relation to the group? What is their purpose in the group?
+
+
+<br>Appearance
+
+<br>How do they look? Include things like NPC Race, Body type (Muscular, thin, etc), Hair, Clothes, etc.
+
+
+<br>Quirk
+
+<br>Something that makes them recognisable. Examples include: A big cigar that they constantly choke on when speaking, a limp that seems to disappear when they think no one is looking, egotistical about very mundane things, etc.
+
+
+<br>Relation to Campaign
+
+<br>How do they link up to the campaign in general?
+
+
+<br>Statistics
+
+<br>Either link to them, or create a "&gt;[!NOTE]-" For custom statblocks
+
+
+<br><br>One to Two sentence concept of the character. Describe how they look and act, along with something that gives purpose to this character<br>
+<br>WHO
+
+<br>Who are they in relation to the group? What is their purpose in the group?
+
+
+<br>Appearance
+
+<br>How do they look? Include things like NPC Race, Body type (Muscular, thin, etc), Hair, Clothes, etc.
+
+
+<br>Quirk
+
+<br>Something that makes them recognisable. Examples include: A big cigar that they constantly choke on when speaking, a limp that seems to disappear when they think no one is looking, egotistical about very mundane things, etc.
+
+
+<br>Relation to Campaign
+
+<br>How do they link up to the campaign in general?
+
+
+<br>Statistics
+
+<br>Either link to them, or create a "&gt;[!NOTE]-" For custom statblocks
+
+
+<br><br>One to Two sentence concept of the character. Describe how they look and act, along with something that gives purpose to this character<br>
+<br>WHO
+
+<br>Who are they in relation to the group? What is their purpose in the group?
+
+
+<br>Appearance
+
+<br>How do they look? Include things like NPC Race, Body type (Muscular, thin, etc), Hair, Clothes, etc.
+
+
+<br>Quirk
+
+<br>Something that makes them recognisable. Examples include: A big cigar that they constantly choke on when speaking, a limp that seems to disappear when they think no one is looking, egotistical about very mundane things, etc.
+
+
+<br>Relation to Campaign
+
+<br>How do they link up to the campaign in general?
+
+
+<br>Statistics
+
+<br>Either link to them, or create a "&gt;[!NOTE]-" For custom statblocks
+
+
+<br><br>One to Two sentence concept of the character. Describe how they look and act, along with something that gives purpose to this character<br>A Half-Elven servant of the royal family<br>
+<br>WHO
+
+<br>Who are they in relation to the group? What is their purpose in the group?
+
+
+<br>Appearance
+
+<br>How do they look? Include things like NPC Race, Body type (Muscular, thin, etc), Hair, Clothes, etc.
+
+
+<br>Quirk
+
+<br>Something that makes them recognisable. Examples include: A big cigar that they constantly choke on when speaking, a limp that seems to disappear when they think no one is looking, egotistical about very mundane things, etc.
+
+
+<br>Relation to Campaign
+
+<br>How do they link up to the campaign in general?
+
+
+<br>Statistics
+
+<br>Either link to them, or create a "&gt;[!NOTE]-" For custom statblocks
+
+
+<br><br>The actual note itself, where the polished version of the note is, which should only be modified slightly after finalisation.]]></description><link>Dungeons and Dragons/Thamalus/Characters/Mardine Royal Family.html</link><guid isPermaLink="false">Dungeons and Dragons/Thamalus/Characters/Mardine Royal Family.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Sat, 02 Nov 2024 12:47:07 GMT</pubDate></item><item><title><![CDATA[Key Aspects]]></title><description><![CDATA[ 
+ <br>A One sentence summary of the group itself. Helps to identify the purpose of the group, who belongs and why, where to find them,and the importance to the entire campaign or world.<br><br>Three to Five<br>
+<br>Key Point 1
+
+<br>Detailed
+<br>Question about Point
+<br>General Note
+
+
+<br>Key Point 2
+<br>Key Point 3
+<br><br>Dot points of the basics of this note, separated only by small stuff<br><br>When making a random member of this group, what should be instantly included<br>
+<br>Type of Group
+
+<br>What type of group is it? Is it a cult, a religion, a group of merchants, or something else entirely?
+<br>The five main gods of <a data-href="Thamalus" href="Dungeons and Dragons/Thamalus/Thamalus.html" class="internal-link" target="_self" rel="noopener nofollow">Thamalus</a>, with XXX
+
+
+<br>Commonality
+
+<br>What is the common mark that makes this group stick together? Are they nobles who hate mingling with the common folk, a group of bandits on the run, or just a random group of adventurers or travellers mingled together by the unseen string of fate itself?
+<br>They existed before the world and even the universe itself. Each one of them helped create the essence of the world
+
+
+<br>Symbol or Identifying Mark
+
+<br>What makes it obvious that they are from this group? Is it the way they dress, the manner they present themselves, or a symbol they carry?
+<br>Each one has a different identifying mark, but there currently is no mark that identifies the group of gods as a whole.
+
+
+<br>Purpose
+
+<br>What is it that they aim for? They may have things in common, but this is the reason why they are all together.
+<br>In a single word: Entertainment. In more words, they wanted something to observe and watch when the universe consisted of nothing but the void. Hence why it is theorised that they had created the world and mortals.
+
+
+<br>Core Members
+
+<br>Who are the members that are instantly recognisable. Have a separate dot point for important ones.
+<br>Aito, the God of Space.
+<br>Luna, the God of Time.
+<br>Edith, the God of Order.
+<br>Havoc, the God of Chaos.
+<br>Muta, the God of "Life".
+
+
+<br><br>Who makes up this group? Make sure they are able to be copied whenever needed, and if possible, make sure there are spares (Doesn't make sense in gods or royalty, but does in Clergy and other such stuff)<br><br>The Forger of worlds, who made the ground and the stars in the night sky. Although he was once commonly worshipped he seems to have disappeared into his forge. However, you can still hear his calling whenever you master a craft.<br>
+<br>WHO
+
+<br>Who are they in relation to the group? What is their purpose in the group?
+<br>The forger of worlds, who created the world the mortals live on, the stars in the night skies and the very cosmos itself.
+
+
+<br>Appearance
+
+<br>How do they look? Include things like NPC Race, Body type (Muscular, thin, etc), Hair, Clothes, etc.
+
+
+<br>Quirk
+
+<br>Something that makes them recognisable. Examples include: A big cigar that they constantly choke on when speaking, a limp that seems to disappear when they think no one is looking, egotistical about very mundane things, etc.
+
+
+<br>Relation to Campaign
+
+<br>How do they link up to the campaign in general?
+
+
+<br>Statistics
+
+<br>They are a god. No fighting them unless you want to be killed.
+
+
+<br><br>One to Two sentence concept of the character. Describe how they look and act, along with something that gives purpose to this character<br>
+<br>WHO
+
+<br>Who are they in relation to the group? What is their purpose in the group?
+
+
+<br>Appearance
+
+<br>How do they look? Include things like NPC Race, Body type (Muscular, thin, etc), Hair, Clothes, etc.
+
+
+<br>Quirk
+
+<br>Something that makes them recognisable. Examples include: A big cigar that they constantly choke on when speaking, a limp that seems to disappear when they think no one is looking, egotistical about very mundane things, etc.
+
+
+<br>Relation to Campaign
+
+<br>How do they link up to the campaign in general?
+
+
+<br>Statistics
+
+<br>They are a god. No fighting them unless you want to be killed.
+
+
+<br><br>One to Two sentence concept of the character. Describe how they look and act, along with something that gives purpose to this character<br>
+<br>WHO
+
+<br>Who are they in relation to the group? What is their purpose in the group?
+
+
+<br>Appearance
+
+<br>How do they look? Include things like NPC Race, Body type (Muscular, thin, etc), Hair, Clothes, etc.
+
+
+<br>Quirk
+
+<br>Something that makes them recognisable. Examples include: A big cigar that they constantly choke on when speaking, a limp that seems to disappear when they think no one is looking, egotistical about very mundane things, etc.
+
+
+<br>Relation to Campaign
+
+<br>How do they link up to the campaign in general?
+
+
+<br>Statistics
+
+<br>They are a god. No fighting them unless you want to be killed.
+
+
+<br><br>One to Two sentence concept of the character. Describe how they look and act, along with something that gives purpose to this character<br>
+<br>WHO
+
+<br>Who are they in relation to the group? What is their purpose in the group?
+
+
+<br>Appearance
+
+<br>How do they look? Include things like NPC Race, Body type (Muscular, thin, etc), Hair, Clothes, etc.
+
+
+<br>Quirk
+
+<br>Something that makes them recognisable. Examples include: A big cigar that they constantly choke on when speaking, a limp that seems to disappear when they think no one is looking, egotistical about very mundane things, etc.
+
+
+<br>Relation to Campaign
+
+<br>How do they link up to the campaign in general?
+
+
+<br>Statistics
+
+<br>They are a god. No fighting them unless you want to be killed.
+
+
+<br><br>One to Two sentence concept of the character. Describe how they look and act, along with something that gives purpose to this character<br>
+<br>WHO
+
+<br>Who are they in relation to the group? What is their purpose in the group?
+<br>The
+
+
+<br>Appearance
+
+<br>How do they look? Include things like NPC Race, Body type (Muscular, thin, etc), Hair, Clothes, etc.
+<br>In the current age when presented to mortals, she seems to be shown as a typical nature loving mum, with wildlife all around her and XXX
+
+
+<br>Quirk
+
+<br>Something that makes them recognisable. Examples include: A big cigar that they constantly choke on when speaking, a limp that seems to disappear when they think no one is looking, egotistical about very mundane things, etc.
+
+
+<br>Relation to Campaign
+
+<br>How do they link up to the campaign in general?
+
+
+<br>Statistics
+
+<br>They are a god. No fighting them unless you want to be killed.
+
+
+<br><br>A the founding member of the original gods, banished to the void inbetween realities due to his XXX<br>
+<br>WHO
+
+<br>Who are they in relation to the group? What is their purpose in the group?
+
+
+<br>Appearance
+
+<br>How do they look? Include things like NPC Race, Body type (Muscular, thin, etc), Hair, Clothes, etc.
+
+
+<br>Quirk
+
+<br>Something that makes them recognisable. Examples include: A big cigar that they constantly choke on when speaking, a limp that seems to disappear when they think no one is looking, egotistical about very mundane things, etc.
+
+
+<br>Relation to Campaign
+
+<br>How do they link up to the campaign in general?
+
+
+<br>Statistics
+
+<br>They are a god. No fighting them unless you want to be killed.
+
+
+<br><br>The actual note itself, where the polished version of the note is, which should only be modified slightly after finalisation.]]></description><link>Dungeons and Dragons/Thamalus/Characters/The Original Five.html</link><guid isPermaLink="false">Dungeons and Dragons/Thamalus/Characters/The Original Five.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Tue, 03 Dec 2024 08:47:39 GMT</pubDate></item><item><title><![CDATA[Key Aspects]]></title><description><![CDATA[ 
+ <br>An ancient continent brimming with magic despite it's residents lack of it. <br><br>Three to Five<br>
+<br>Key Point 1
+
+<br>Detailed
+<br>Question about Point
+<br>General Note
+
+
+<br>Key Point 2
+<br>Key Point 3
+<br><br>Dot points of the basics of this note, separated only by small stuff<br><br>Where in the world is it located, why, and all the other aspects of it being here<br>
+<br>Where
+
+<br>Which continent, in which world, in which age if it applies
+
+
+<br>Environment
+
+<br>What type of environment is this location built inside of (Or generally has been)?
+
+
+<br>Size
+
+<br>What size is this location? How long does it take someone to move through this location, how much space does it take on the map, how would other people classify the size of the location. Things like this.
+
+
+<br><br>What are the sorts of things the players will discover about this location, outside of something you will find on a map?<br>
+<br>Style
+
+<br>What does the location look like, what makes them different from other locations of the same nature?
+
+
+<br>People
+
+<br>What kind of people live in this area? What types of races, what types of cultures develop.
+
+
+<br>Cultures
+
+<br>What types of cultures develop in this land? Who do they believe, what are some sort of practices that takes place here. What are their attitudes towards their typical day-to-days? What are their day-to-days
+
+
+<br>Uniqueness
+
+<br>What are some unique things about this location that you either wouldn't expect or gives the location depth? Try more than one thing.
+
+
+<br>
+<br><br>Locations found either within this location, or so close that they have become heavily dependant on one another (Think a town trading with a small hamlet two days north of it).<br>
+NOTE - These locations either should be fully detailed or linked to from another location article<br><br>One sentence concept of what this location is, and why it relates to this location. (Should be smaller/less important than this location)<br>
+<br>Style
+
+<br>What does the location look like, what makes them different from other locations of the same nature?
+
+
+<br>People
+
+<br>What kind of people live in this area? What types of races, what types of cultures develop.
+
+
+<br>Uniqueness
+
+<br>What are some unique things about this location that you either wouldn't expect or gives the location depth? Try more than one thing.
+
+
+<br><br>The actual note itself, where the polished version of the note is, which should only be modified slightly after finalisation.]]></description><link>Dungeons and Dragons/Thamalus/Locations/Ardia/Ardia.html</link><guid isPermaLink="false">Dungeons and Dragons/Thamalus/Locations/Ardia/Ardia.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Tue, 24 Sep 2024 11:26:30 GMT</pubDate></item><item><title><![CDATA[Key Aspects]]></title><description><![CDATA[ 
+ <br>A One sentence summary of the note itself. Helps to identify the purpose of the note, the XXX<br><br>Three to Five<br>
+<br>Key Point 1
+
+<br>Detailed
+<br>Question about Point
+<br>General Note
+
+
+<br>Key Point 2
+<br>Key Point 3
+<br><br>Dot points of the basics of this note, separated only by small stuff<br><br>Where in the world is it located, why, and all the other aspects of it being here<br>
+<br>Where
+
+<br>Which continent, in which world, in which age if it applies
+
+
+<br>Environment
+
+<br>What type of environment is this location built inside of (Or generally has been)?
+
+
+<br>Size
+
+<br>What size is this location? How long does it take someone to move through this location, how much space does it take on the map, how would other people classify the size of the location. Things like this.
+
+
+<br><br>What are the sorts of things the players will discover about this location, outside of something you will find on a map?<br>
+<br>Style
+
+<br>What does the location look like, what makes them different from other locations of the same nature?
+
+
+<br>People
+
+<br>What kind of people live in this area? What types of races, what types of cultures develop.
+
+
+<br>Cultures
+
+<br>What types of cultures develop in this land? Who do they believe, what are some sort of practices that takes place here. What are their attitudes towards their typical day-to-days? What are their day-to-days
+
+
+<br>Uniqueness
+
+<br>What are some unique things about this location that you either wouldn't expect or gives the location depth? Try more than one thing.
+
+
+<br>
+<br><br>Locations found either within this location, or so close that they have become heavily dependant on one another (Think a town trading with a small hamlet two days north of it).<br>
+NOTE - These locations either should be fully detailed or linked to from another location article<br><br>One sentence concept of what this location is, and why it relates to this location. (Should be smaller/less important than this location)<br>
+<br>Style
+
+<br>What does the location look like, what makes them different from other locations of the same nature?
+
+
+<br>People
+
+<br>What kind of people live in this area? What types of races, what types of cultures develop.
+
+
+<br>Uniqueness
+
+<br>What are some unique things about this location that you either wouldn't expect or gives the location depth? Try more than one thing.
+
+
+<br><br>The actual note itself, where the polished version of the note is, which should only be modified slightly after finalisation.]]></description><link>Dungeons and Dragons/Thamalus/Locations/Diari/Diari.html</link><guid isPermaLink="false">Dungeons and Dragons/Thamalus/Locations/Diari/Diari.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Sat, 28 Sep 2024 12:37:42 GMT</pubDate></item><item><title><![CDATA[Key Aspects]]></title><description><![CDATA[ 
+ <br>A land of progress at any costs, with the end goal to benefit others but often ignoring the costs of their progress.<br><br>Three to Five<br>
+<br>A technologically advanced continent, where magic has been made for the common people.
+
+<br>Unlike other continents, the land is quite advanced with a clockwork-like technology based primarily on the early technological revolution.
+<br>Question about Point
+<br>General Note
+
+
+<br>A land lost to a war from a <a data-tooltip-position="top" aria-label="Diari" data-href="Diari" href="Dungeons and Dragons/Thamalus/Locations/Diari/Diari.html" class="internal-link" target="_self" rel="noopener nofollow">Waring Continent</a>, whose beliefs fundamentally oppose the kingdom of <a data-href="Mardine" href="Dungeons and Dragons/Thamalus/Locations/Mardine/Mardine.html" class="internal-link" target="_self" rel="noopener nofollow">Mardine</a>.
+
+<br>The land of <a data-href="Diari" href="Dungeons and Dragons/Thamalus/Locations/Diari/Diari.html" class="internal-link" target="_self" rel="noopener nofollow">Diari</a> attacked <a data-href="Mardine" href="Dungeons and Dragons/Thamalus/Locations/Mardine/Mardine.html" class="internal-link" target="_self" rel="noopener nofollow">Mardine</a> due to many different things. Their means of non-stop progress based on the industry rather than being one with nature, their inclusion of everyone with the sharpest minds in society rather than those with the most magic, and their general exclusion of the old world of magic.
+<br>What is the core belief at the centre of <a data-href="Mardine" href="Dungeons and Dragons/Thamalus/Locations/Mardine/Mardine.html" class="internal-link" target="_self" rel="noopener nofollow">Mardine</a>?
+
+<br>Technological progress for the masses
+<br>Progress at any costs; be it environmental or XXX
+
+
+<br>What is the core belief at the centre of <a data-href="Diari" href="Dungeons and Dragons/Thamalus/Locations/Diari/Diari.html" class="internal-link" target="_self" rel="noopener nofollow">Diari</a>?
+
+<br>XXX
+
+
+<br>Are there any other factors that could have caused this war?
+
+<br>Their opposing beliefs are the main cause; with 
+<br>XXX
+<br>A little push from the <a data-href="Feywild Courts" href="Feywild Courts" class="internal-link" target="_self" rel="noopener nofollow">Feywild Courts</a> has egged them on over generations. Their burning hatred was once a little spark, which was nurtured by the <a data-tooltip-position="top" aria-label="Feywild Courts" data-href="Feywild Courts" href="Feywild Courts" class="internal-link" target="_self" rel="noopener nofollow">Courts</a> to become an inferno.
+
+
+<br>XXX
+
+
+<br>Key Point 3
+<br><br>Dot points of the basics of this note, separated only by small stuff<br><br>Where in the world is it located, why, and all the other aspects of it being here<br>
+<br>Where
+
+<br>Which continent, in which world, in which age if it applies
+<br>In the world of <a data-href="Thamalus" href="Dungeons and Dragons/Thamalus/Thamalus.html" class="internal-link" target="_self" rel="noopener nofollow">Thamalus</a>, with this continent being the largest of the three continents. Located on the Eastern side of the world (Right side)
+
+
+<br>Environment
+
+<br>What type of environment is this location built inside of (Or generally has been)?
+
+
+<br>Size
+
+<br>What size is this location? How long does it take someone to move through this location, how much space does it take on the map, how would other people classify the size of the location. Things like this.
+
+
+<br><br>What are the sorts of things the players will discover about this location, outside of something you will find on a map?<br>
+<br>Style
+
+<br>What does the location look like, what makes them different from other locations of the same nature?
+
+
+<br>People
+
+<br>What kind of people live in this area? What types of races, what types of cultures develop.
+
+
+<br>Cultures
+
+<br>What types of cultures develop in this land? Who do they believe, what are some sort of practices that takes place here. What are their attitudes towards their typical day-to-days? What are their day-to-days
+
+
+<br>Uniqueness
+
+<br>What are some unique things about this location that you either wouldn't expect or gives the location depth? Try more than one thing.
+
+
+<br>
+<br><br>Locations found either within this location, or so close that they have become heavily dependant on one another (Think a town trading with a small hamlet two days north of it).<br>
+NOTE - These locations either should be fully detailed or linked to from another location article<br><br>One sentence concept of what this location is, and why it relates to this location. (Should be smaller/less important than this location)<br>
+<br>Style
+
+<br>What does the location look like, what makes them different from other locations of the same nature?
+
+
+<br>People
+
+<br>What kind of people live in this area? What types of races, what types of cultures develop.
+
+
+<br>Uniqueness
+
+<br>What are some unique things about this location that you either wouldn't expect or gives the location depth? Try more than one thing.
+
+
+<br><br>The actual note itself, where the polished version of the note is, which should only be modified slightly after finalisation.]]></description><link>Dungeons and Dragons/Thamalus/Locations/Mardine/Mardine.html</link><guid isPermaLink="false">Dungeons and Dragons/Thamalus/Locations/Mardine/Mardine.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Sat, 28 Sep 2024 13:31:25 GMT</pubDate></item><item><title><![CDATA[Key Aspects]]></title><description><![CDATA[ 
+ <br>A world is at war, and it seems like the world is at end, however <br>HollowHit2<br><br>Three to Five<br>
+<br>The Weight of Death Looms over the world as war approaches, but XXX
+
+<br>Detailed
+<br>How do people deal with death?
+
+<br>There are many different ways that people deal with death, but most of them rationalise
+
+
+<br>General Note
+
+
+<br>Although the Destination is always the same, the journey is the thing that gives life it's purpose
+
+<br>Everyone dies, and everyone experiences death and all it's hardships, however the world's natural cycle is often found more pleasant living with the smaller things
+
+<br>Having Friends, Experiencing the sounds of nature
+
+
+<br>The world is vast, and so is the people's curiosity. If people go straight from one point to another, they are technically alive, but with no purpose.
+
+
+<br>Key Point 3
+<br><br>Dot points of the basics of this note, separated only by small stuff<br><br>The foundations of the story. The things that are built upon either before or during the session that gives a core structure<br>
+<br>Campaign
+
+<br><a data-href="Fate of the Fools" href="Dungeons and Dragons/Thamalus/Quests/Current - Fate of the Fools/Fate of the Fools.html" class="internal-link" target="_self" rel="noopener nofollow">Fate of the Fools</a>
+
+
+<br>Requirements
+
+<br>5x Level 5~9 Adventurers
+
+
+<br>Themes
+
+<br>Death: The inevitable end and the thing that pushes you through life, death is a scary thing. Many want to escape it, some fall in fear of it being unable to do anything after encountering it, some break to it and XXX, and finally some embrace it welcoming it in their hearts.
+
+<br>People react more poorly to death as they grow older, knowing what they have to loose, even if death has already claimed all that.
+<br>People aim to cheat it, 
+
+
+<br>War: Why do people go to war? It is normally due to either beliefs that they cannot rectify or by callous greed of what someone else has. But how does this war affect the normal people? How are their everydays life changed
+
+<br>AAA
+
+
+<br>The Purpose of Life: If the world seems to be at it's end, what is the purpose of life? What motivates people to live as they do, and what makes them do the impossible for a future that they will never see?
+
+<br>XXX
+
+
+
+
+<br>Where
+
+<br>Where it takes place, such as continent and town. If none, the distance from a town or the location type (Such as a Forest) is enough.
+<br>This takes place in the world of <a data-href="Thamalus" href="Dungeons and Dragons/Thamalus/Thamalus.html" class="internal-link" target="_self" rel="noopener nofollow">Thamalus</a>; Mainly in the continents of <a data-href="Ardia" href="Dungeons and Dragons/Thamalus/Locations/Ardia/Ardia.html" class="internal-link" target="_self" rel="noopener nofollow">Ardia</a> and <a data-href="Diari" href="Dungeons and Dragons/Thamalus/Locations/Diari/Diari.html" class="internal-link" target="_self" rel="noopener nofollow">Diari</a> near the end. It is undetermined that the world is going to be used past this campaign
+
+
+<br>Length
+
+<br>How long it should take to complete? (In Sessions but can be hours or minutes if needed)
+<br>This is a tough one, It is definitely a multi-year long campaign, however I h
+
+
+<br>Starting Condition
+
+<br>What happens for the players to acquire this quest?
+<br>The players go to <a data-href="Mardine" href="Dungeons and Dragons/Thamalus/Locations/Mardine/Mardine.html" class="internal-link" target="_self" rel="noopener nofollow">Mardine</a> and accept a request from the <a data-href="Mardine Royal Family" href="Dungeons and Dragons/Thamalus/Characters/Mardine Royal Family.html" class="internal-link" target="_self" rel="noopener nofollow">Mardine Royal Family</a> to retrieve the <a data-href="Dragon's Heart Bloodstone" href="Dragon's Heart Bloodstone" class="internal-link" target="_self" rel="noopener nofollow">Dragon's Heart Bloodstone</a> from the island of <a data-href="Ardia" href="Dungeons and Dragons/Thamalus/Locations/Ardia/Ardia.html" class="internal-link" target="_self" rel="noopener nofollow">Ardia</a> to power something to prevent the takeover of XXX
+
+
+<br>Ending
+
+<br>What is the goal for the ending of this quest?
+<br>The Fate of the World lying at the end of the XXX
+<br>The XXX
+
+
+<br>Encounters
+
+<br>Any combat, social, or exploration encounters.
+<br>The Dragon's Heart
+
+<br>The Book of Fates
+<br>Awakening of <a data-href="The Undying" href="The Undying" class="internal-link" target="_self" rel="noopener nofollow">The Undying</a>
+<br>XXX of <a data-href="The Infected" href="The Infected" class="internal-link" target="_self" rel="noopener nofollow">The Infected</a>
+
+
+<br>The Royals
+
+<br>Retrieval of the Royals
+<br>Sinking of the Sunken Capital
+
+
+<br>War of the XXX
+
+
+<br><br>Bullet point list of quest<br>
+<br>The Dragon's Heart
+
+<br>Tasked by the <a data-href="Mardine Royal Family" href="Dungeons and Dragons/Thamalus/Characters/Mardine Royal Family.html" class="internal-link" target="_self" rel="noopener nofollow">Mardine Royal Family</a> to find the <a data-href="Dragon's Heart Bloodstone" href="Dragon's Heart Bloodstone" class="internal-link" target="_self" rel="noopener nofollow">Dragon's Heart Bloodstone</a>, the party must adventure to the lands of <a data-href="Ardia" href="Dungeons and Dragons/Thamalus/Locations/Ardia/Ardia.html" class="internal-link" target="_self" rel="noopener nofollow">Ardia</a>
+<br>Part 1
+
+<br>Description of this part; be it story, an intractable important element, or what have you.
+<br>
+<br>(NONE) General Description of place or event, given with no necessary checks
+<br>🔎 (INVESTIGATION) Details found after passing some sort of check
+<br>? (Optional) Depending on time and current tone, the user can choose to add or remove XXX
+
+
+<br>Part 2
+<br>Part 3
+
+
+<br>The Sunken Capital
+
+<br>The player's discover that the Royal Children are located near the <a data-href="Crying Mountain" href="Crying Mountain" class="internal-link" target="_self" rel="noopener nofollow">Crying Mountain</a> and must retrieve them before the <a data-href="Diarian Army" href="Diarian Army" class="internal-link" target="_self" rel="noopener nofollow">Diarian Army</a> does so first.
+<br>Travelling To <a data-href="Sunrise" href="Sunrise" class="internal-link" target="_self" rel="noopener nofollow">Sunrise</a>
+
+<br>The information broker delivered info about the Royal Children being XXX
+<br>It was Three days travel to <a data-href="Sunrise" href="Sunrise" class="internal-link" target="_self" rel="noopener nofollow">Sunrise</a>. 
+<br>First day was through XXX
+<br>Second Day
+<br>Third Day
+<br>XXX
+
+
+<br>Solving Flooding Issue (Temporary)
+
+<br>AAA
+<br>People were NOT panicked about the XXX
+
+
+<br>Getting to <a data-href="Waterfall" href="Waterfall" class="internal-link" target="_self" rel="noopener nofollow">Waterfall</a>
+<br>Getting Trust of <a data-href="Waterfall" href="Waterfall" class="internal-link" target="_self" rel="noopener nofollow">Waterfall</a>'s citizens
+<br>The Sunken Capital
+<br>Battle of the First Palace
+
+<br>The players traverse the town and find the XXX
+<br>Players sneaked to the palace, then attacked the commander of <a data-href="The Infected" href="The Infected" class="internal-link" target="_self" rel="noopener nofollow">The Infected</a>. After a few rounds of battle, he got bored and snuck into the castle.
+<br>The players investigated the castle's interior
+<br>The players got to the King's room and searched; finding a diary and a secret entrance to the roof.
+<br>Players fought the XXX there, with Lewis knocking the main one off using the <a data-tooltip-position="top" aria-label="Bloodstones" data-href="Bloodstones" href="Bloodstones" class="internal-link" target="_self" rel="noopener nofollow">Wind Bloodstone</a> he has.
+
+
+
+
+<br>Denial of the Truth
+
+<br>Players discover a war has already been started for the <a data-tooltip-position="top" aria-label="Mardine Royal Family" data-href="Mardine Royal Family" href="Dungeons and Dragons/Thamalus/Characters/Mardine Royal Family.html" class="internal-link" target="_self" rel="noopener nofollow">Royal Children</a>, and shortly after finding them, the whole of <a data-href="Thamalus" href="Dungeons and Dragons/Thamalus/Thamalus.html" class="internal-link" target="_self" rel="noopener nofollow">Thamalus</a>.
+
+<br>CCC
+
+
+<br>Escaping the Capital
+
+<br>ProphetBot frees them from the stasis. 
+<br>Says although they are not the  <a data-href="Light Bringers" href="Light Bringers" class="internal-link" target="_self" rel="noopener nofollow">Light Bringers</a>, they might still be able to visit the <a data-href="Wildermyth Library" href="Wildermyth Library" class="internal-link" target="_self" rel="noopener nofollow">Wildermyth Library</a>
+
+
+<br>Actually solving the 
+<br>Players go back to <a data-href="Goldwater" href="_Unassigned/Goldwater.html" class="internal-link" target="_self" rel="noopener nofollow">Goldwater</a> to deliver the <a data-tooltip-position="top" aria-label="Mardine Royal Family" data-href="Mardine Royal Family" href="Dungeons and Dragons/Thamalus/Characters/Mardine Royal Family.html" class="internal-link" target="_self" rel="noopener nofollow">Royal Children</a> back to their country.
+<br>
+
+
+<br>AAA
+<br>AAA
+<br><br>The characters (Outside of your party) that appear<br><br><br>The actual note itself, where the polished version of the note is, which should only be modified slightly after finalisation.]]></description><link>Dungeons and Dragons/Thamalus/Quests/Current - Fate of the Fools/Fate of the Fools.html</link><guid isPermaLink="false">Dungeons and Dragons/Thamalus/Quests/Current - Fate of the Fools/Fate of the Fools.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Fri, 06 Dec 2024 07:36:50 GMT</pubDate></item><item><title><![CDATA[Key Aspects]]></title><description><![CDATA[ 
+ <br>A One sentence summary of the note itself. Helps to identify the purpose of the note, the XXX<br><br>Three to Five<br>
+<br>A fantasy based world, with a early industrial revolution technology revolution.
+
+<br>The main world that I will be continuing with in the future, but with a loose timeline. This world is primarily a generic fantasy, with some of the higher levels of magic being unable to be cast by non-players (7th level max), and as such technology was given a chance to make an impact to everyone regardless of their magical status.
+<br>Why a fantasy world (Other than it being DND)?
+
+<br>Fantasy is what I like the most, as I can mould it to what I want it to be. Short and sweet.
+
+
+<br>Why Technology was introduced?
+
+<br>For the Out-of-universe reason: I wanted to create an atmosphere outside of what everyone at the table knew, while also giving the world a consistent logic to it. Technology was the best way to do it, giving the players something new to interact with and to additionally show that the world is able to evolve to the needs of the people inside it.
+<br>For the in-universe reason: Technology was always attempted, but due to magic being more powerful it was overlooked. This was until the discovery of <a data-href="Bloodstones" href="Bloodstones" class="internal-link" target="_self" rel="noopener nofollow">Bloodstones</a> and mages finding the hard limit of magic (Currently 7th level). The hard limit of magic forced the world to look to other solutions, rather than the convenient one they known for centuries on end. <a data-href="Bloodstones" href="Bloodstones" class="internal-link" target="_self" rel="noopener nofollow">Bloodstones</a> on the other hand basically acted like a powerful fuel source for all their inventions, with the added benefit of it being similar to something they already knew (Magic), even if they did not know where it comes from.
+
+
+<br>What is the Max Spell Limit?
+
+<br>Although the reason alludes people nowadays, there seems to be a wall cast on a magic user's potential. Some theorise that it is the natural limits of mortals, others think that it is requiring a new way of harvesting magic, however it seems that some theorise it to be and artificial obstacle to serve some greater purpose.
+
+<br>It seems to be at the 7th level spells at the moment, and requires Arcane Checks (Where relevant) to find out more information.
+
+
+
+
+<br>Bloodstones? What is that?
+
+<br>Think of it as a power source coming in primarily five different flavours: Fire, Water, Wind, Earth, and "Pure". Each of them are used to either enhance your current magic or to act as a fuel for a device specialising in one of the different elements.
+<br>"Pure" Bloodstones seem to be XXX
+
+
+<br>General Note
+
+
+<br>A world with untold history, with many civilisations living, thriving and dying while only leaving behind their ancient monuments.
+
+<br>The world is an ancient place, and not everything that now exists
+<br>
+
+
+<br>Key Point 3
+<br><br>Dot points of the basics of this note, separated only by small stuff<br><br>Where in the world is it located, why, and all the other aspects of it being here<br>
+<br>Where
+
+<br>This is the main world of <a data-href="Fate of the Fools" href="Dungeons and Dragons/Thamalus/Quests/Current - Fate of the Fools/Fate of the Fools.html" class="internal-link" target="_self" rel="noopener nofollow">Fate of the Fools</a>. It is assumed that it is one of the Material Planes of the core DND experience, however it is yet to be proven outside of some marks of the Fey.
+
+
+<br>Environment
+
+<br>What type of environment is this location built inside of (Or generally has been)?
+<br>This is a generally fantasy setting with the innovations of early industrial revolution technology by using stones called <a data-href="Bloodstones" href="Bloodstones" class="internal-link" target="_self" rel="noopener nofollow">Bloodstones</a>.
+
+
+<br>Size
+
+<br>What size is this location? How long does it take someone to move through this location, how much space does it take on the map, how would other people classify the size of the location. Things like this.
+<br>It is the world. It is pretty big. Do not know if it will only contain the three main continents of the <a data-href="Fate of the Fools" href="Dungeons and Dragons/Thamalus/Quests/Current - Fate of the Fools/Fate of the Fools.html" class="internal-link" target="_self" rel="noopener nofollow">Fate of the Fools</a> campaign, or maybe more when I plan to create new ones.
+
+
+<br><br>What are the sorts of things the players will discover about this location, outside of something you will find on a map?<br>
+<br>Style
+
+<br>What does the location look like, what makes them different from other locations of the same nature?
+
+
+<br>People
+
+<br>What kind of people live in this area? What types of races, what types of cultures develop.
+<br>All of the typical Dungeons and Dragon's 5th edition races, with some extra races including Owlk (Owlfolk).
+
+
+<br>Cultures
+
+<br>What types of cultures develop in this land? Who do they believe, what are some sort of practices that takes place here. What are their attitudes towards their typical day-to-days? What are their day-to-days
+
+
+<br>Uniqueness
+
+<br>What are some unique things about this location that you either wouldn't expect or gives the location depth? Try more than one thing.
+
+
+<br>
+<br><br>Locations found either within this location, or so close that they have become heavily dependant on one another (Think a town trading with a small hamlet two days north of it).<br>
+NOTE - These locations either should be fully detailed or linked to from another location article<br><br>One sentence concept of what this location is, and why it relates to this location. (Should be smaller/less important than this location)<br>
+<br>Style
+
+<br>What does the location look like, what makes them different from other locations of the same nature?
+
+
+<br>People
+
+<br>What kind of people live in this area? What types of races, what types of cultures develop.
+
+
+<br>Uniqueness
+
+<br>What are some unique things about this location that you either wouldn't expect or gives the location depth? Try more than one thing.
+
+
+<br><br>One sentence concept of what this location is, and why it relates to this location. (Should be smaller/less important than this location)<br>
+A technologically-adept nation who views progress comes before anything else, regardless of the means. The first thing to go was their reliance on magic, and because of that (it is assumed) the <a data-href="Diari" href="Dungeons and Dragons/Thamalus/Locations/Diari/Diari.html" class="internal-link" target="_self" rel="noopener nofollow">Diari</a> continent attacked.<br>
+<br>Style
+
+<br>What does the location look like, what makes them different from other locations of the same nature?
+
+
+<br>People
+
+<br>What kind of people live in this area? What types of races, what types of cultures develop.
+<br>XXX Dwarves, Gnomes and other technology-savvy races makes their home on this continent, with races like Elves and Firbolgs being slowly pushed out. Not XXX, but due to their seeming stubbornness without checking their beliefs
+
+
+<br>Uniqueness
+
+<br>What are some unique things about this location that you either wouldn't expect or gives the location depth? Try more than one thing.
+
+
+<br><br>The main opposing continent of <a data-href="Fate of the Fools" href="Dungeons and Dragons/Thamalus/Quests/Current - Fate of the Fools/Fate of the Fools.html" class="internal-link" target="_self" rel="noopener nofollow">Fate of the Fools</a>, who thinks that the way of the future can be made with as little change to the norm as possible by using magic in all of it's limitations.<br>
+In other words: Tradition before Progress<br>
+<br>Style
+
+<br>What does the location look like, what makes them different from other locations of the same nature?
+
+
+<br>People
+
+<br>What kind of people live in this area? What types of races, what types of cultures develop.
+
+
+<br>Uniqueness
+
+<br>What are some unique things about this location that you either wouldn't expect or gives the location depth? Try more than one thing.
+
+
+<br><br>The people who are inside of this world, that have some real control on either the main campaign(s) or on the world as a whole.<br><br>AAA<br><br>The actual note itself, where the polished version of the note is, which should only be modified slightly after finalisation.]]></description><link>Dungeons and Dragons/Thamalus/Thamalus.html</link><guid isPermaLink="false">Dungeons and Dragons/Thamalus/Thamalus.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Tue, 03 Dec 2024 05:21:44 GMT</pubDate></item><item><title><![CDATA[Key Aspects]]></title><description><![CDATA[ 
+ <br>A guide to the basics of Power Apps, excluding the whole suite.<br><br>Three to Five<br>
+<br>Key Point 1
+
+<br>Detailed
+<br>Question about Point
+<br>General Note
+
+
+<br>Key Point 2
+<br>Key Point 3
+<br><br>Dot points of the basics of this note, separated only by small stuff<br><br>AAA<br>
+<br>Screen Layout
+
+<br>Right Side: Selected Item Properties.
+<br>Left Side: XXX
+
+<br>Tree: Shows all of the available screens of the application and XXX
+
+
+<br>XXX
+
+
+<br>Each XXX
+<br>XXX
+<br>XXX
+<br><br>The actual note itself, where the polished version of the note is, which should only be modified slightly after finalisation.]]></description><link>Work/Guides/Power Apps Guide.html</link><guid isPermaLink="false">Work/Guides/Power Apps Guide.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Sun, 29 Sep 2024 04:11:39 GMT</pubDate></item><item><title><![CDATA[Home]]></title><description><![CDATA[ 
+ <br>GitHub - HollowHit2]]></description><link>Home.html</link><guid isPermaLink="false">Home.md</guid><dc:creator><![CDATA[Duel2win]]></dc:creator><pubDate>Tue, 03 Dec 2024 04:31:23 GMT</pubDate></item></channel></rss>
